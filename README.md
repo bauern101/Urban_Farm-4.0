@@ -19,7 +19,7 @@ Future state -
 ## [Bees] Heat Matters  
 --> [Link](https://cordis.europa.eu/article/id/443713-a-robotic-system-to-save-the-bees#:~:text=%E2%80%9CThe%20thermal%20sensors%20create%20a,the%20use%20of%20intrusive%20cameras.%20%E2%80%9C)  
 Initial Step - Fact Finding.
-- Observation Hive
+- [Observation Hive](https://www.sustainability-times.com/sustainable-business/scientists-in-europe-are-arming-queen-bees-with-robots-and-smart-hives-to-save-their-colonies/#:~:text=This%20could%20have%20another%20virtuous,Read%20the%20original%20article.)  
 - Observation Hive - "Shattered" design and maximum offset length (→ Holland)
 - [Defence](https://scientificbeekeeping.com/a-test-of-thermal-treatment-for-varroa-part-1/)
 - Cell Placement
