@@ -2,8 +2,6 @@
 Projects to inject Digital Twin analysis into Farming
 
 ## [Bees] Guardian at the Gate  
-Varroa Mites (a parasite that invests larval chambers in a hive, killing the nascent bee and contributing to Colony Collapse) rest on potential flowers and hitch a ride on pollen-gathering bees, and are carried back to the bee's home hive.  AI and IoT systems can be integrated into a variation of a [Pollen Catcher](https://happbeeacres.com/product/pollen-trap/) to screen incomming bees for infestation.  Bees carrying mites (and other potential dangers, like invading wasps)can be removed from the population, but they need to be identified first.  
-
 --> [Dataset](https://www.tensorflow.org/datasets/catalog/bee_dataset)  
 The pictures were of bees in a number of states.  They were all shot on the same green background for contrast.
 
